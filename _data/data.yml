@@ -1,19 +1,19 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Sharannya Nair
+  title: Android Developer
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: sharannya.nair@gmail.com
+  phone: +353 0894144791
   wechat:
   whatsapp:
   telegram:
-  website: example.com
+  website: 
   medium:
-  linkedin:
+  linkedin: http://www.linkedin.com/in/sharannya-nair-android-developer
   googlescholar:
   researchgate:
   github: github
@@ -38,22 +38,10 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
+    - role: Android Developer
       time: 2018.03 - 2019.03
       company: Second Company
       tag:
-      location: Beijing
-      details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
       location: Beijing
       details: |
         Experience in this company:
@@ -102,9 +90,9 @@ education:
   title: Education
   items:
     - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+      time: 2022-2023
+      major: Cloud Computing 
+      degree: Masters in Science
       details: |
         Experience in this university:
         + First
@@ -155,18 +143,13 @@ publications:
       conference: Foobar, 2019
       link:
 
-patents:
-  display: true
-  title: Patents
-  details: |
-    This is all my patents.
-    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
-
 languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: Malayalam
+      level: Native
+      idiom: Hindi
       level: Native
     - idiom: English
       level: Professional
@@ -176,8 +159,6 @@ interests:
   title: Interests
   items:
     - item: Reading
-      link:
-    - item: Cooking
       link:
 
 evaluation:
